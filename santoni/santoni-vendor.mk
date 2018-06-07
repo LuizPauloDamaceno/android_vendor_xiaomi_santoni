@@ -97,8 +97,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/etc/qdcm_calib_data_ili9881c_HD720p_video_Ebbg.xml:system/etc/qdcm_calib_data_ili9881c_HD720p_video_Ebbg.xml \
     vendor/xiaomi/santoni/proprietary/etc/qdcm_calib_data_ili9881c_HD720p_video_EbbgDJN.xml:system/etc/qdcm_calib_data_ili9881c_HD720p_video_EbbgDJN.xml \
     vendor/xiaomi/santoni/proprietary/lib/hw/consumerir.default.so:system/lib/hw/consumerir.default.so \
-	vendor/xiaomi/santoni/proprietary/lib/hw/bluetooth.default.so:system/lib/hw/bluetooth.default.so \	
-    vendor/xiaomi/santoni/proprietary/lib/hw/fingerprint.searchf.so:system/lib/hw/fingerprint.searchf.so \
+	vendor/xiaomi/santoni/proprietary/lib/hw/bluetooth.default.so:system/lib/hw/bluetooth.default.so \
+	vendor/xiaomi/santoni/proprietary/lib/hw/fingerprint.searchf.so:system/lib/hw/fingerprint.searchf.so \
     vendor/xiaomi/santoni/proprietary/lib/libcom_fingerprints_service.so:system/lib/libcom_fingerprints_service.so \
     vendor/xiaomi/santoni/proprietary/lib64//hw/fingerprint.fpc.so:system/lib64//hw/fingerprint.fpc.so \
 	vendor/xiaomi/santoni/proprietary/lib64/hw/bluetooth.default.so:system/lib64/hw/bluetooth.default.so \
